@@ -1,0 +1,10 @@
+{
+  "env": {
+    "JWT_KEY": "C0B4D1B4C4_M4S",
+    "MYSQL_HOST": "localhost",
+    "MYSQL_USER": "root",
+    "MYSQL_PASS": "",
+    "MYSQL_DB": "terserah",
+    "MYSQL_LIMIT": 10
+  }
+}
